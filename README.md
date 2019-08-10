@@ -4,3 +4,10 @@ This extension crawls the security.txt of each website you visit. It informs you
 ![Hack](https://github.com/MartinRenze/permissionToHack/blob/master/icons/hack48.png) Click on the button to show the policy (security.txt)
 
 ![DoNotack](https://github.com/MartinRenze/permissionToHack/blob/master/icons/doNotHack48.png) Do not hack this site (no security.txt available)
+
+## Install on Chrome
+* git clone https://github.com/MartinRenze/permissionToHack.git or download the ZIP
+* Visit [chrome://extensions/](chrome://extensions/) with Chrome
+* Enable "Developer mode"
+* Click "Load unpacked"
+* Choose the folder you cloned with git or the extracted ZIP file
