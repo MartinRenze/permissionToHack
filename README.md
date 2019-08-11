@@ -5,9 +5,15 @@ This extension crawls the security.txt of each website you visit. It informs you
 
 ![DoNotack](https://github.com/MartinRenze/permissionToHack/blob/master/icons/doNotHack48.png) Do not hack this site (no security.txt available)
 
+## Install on Firefox
+* https://addons.mozilla.org/en-US/firefox/addon/permission-to-hack/
+
 ## Install on Chrome
 * git clone https://github.com/MartinRenze/permissionToHack.git or download the ZIP
 * Visit [chrome://extensions/](chrome://extensions/) with Chrome
 * Enable "Developer mode"
 * Click "Load unpacked"
 * Choose the folder you cloned with git or the extracted ZIP file
+
+## Other browsers
+* Leave an issue and I will test your desired browser
